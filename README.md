@@ -25,3 +25,4 @@ A dynamic movie website developed during my HND studies. The application allows 
 
 ## Live Demo
 
+http://webdev.edinburghcollege.ac.uk/HNCWEBMR18/LimeLight%20Cinema/primary_pages/
