@@ -23,5 +23,5 @@ A dynamic movie website developed during my HND studies. The application allows 
 - Improving front-end development skills
 - Creating responsive layouts
 
-##Live Demo
+## Live Demo
 
